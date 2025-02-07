@@ -1,0 +1,33 @@
+# Python
+*.pyc
+*.pyd
+__pycache__/
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+sdist/
+
+# Docker
+*.log
+
+# General
+.DS_Store
+*.swp
+*.swo
+#*
+*~
+*.bak
+*.orig
+tmp/
+temp/
+tmp.*
+Thumbs.db
+.idea/
+.vscode/
+
+#OS generated files #
+.DS_Store
+Thumbs.db
